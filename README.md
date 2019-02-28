@@ -10,7 +10,7 @@ It requires both methods from computer vision to understand the content of the i
 
 ## Output Examples
 
-![img|300x300, 50%](/img/children.png)
+![](/img/children.png | width=250)
 
 ![](/img/bull.png)
 
