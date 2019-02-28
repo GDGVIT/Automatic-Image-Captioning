@@ -10,8 +10,8 @@ It requires both methods from computer vision to understand the content of the i
 
 ## Output Examples
 
-!(img/children.png)
+![](/img/children.png "")
 
-!(img/bull.png)
+![](/img/bull.png "")
 
-!(img/dog.png)
+![](/img/dog.png "")
