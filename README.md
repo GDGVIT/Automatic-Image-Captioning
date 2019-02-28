@@ -10,8 +10,8 @@ It requires both methods from computer vision to understand the content of the i
 
 ## Output Examples
 
-<img src="/img/children.png" width="250">
+<img src="/img/children.png" width="400">
 
-![](/img/bull.png)
+<img src="/img/bull.png" width="400">
 
-![](/img/dog.png)
+<img src="/img/dog.png" width="400">
