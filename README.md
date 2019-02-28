@@ -10,8 +10,8 @@ It requires both methods from computer vision to understand the content of the i
 
 ## Output Examples
 
-![](/img/children.png =300x300)
+![img|300x300, 50%](/img/children.png)
 
-![](/img/bull.png =300x300)
+![](/img/bull.png)
 
-![](/img/dog.png =300x300)
+![](/img/dog.png)
